@@ -1,0 +1,192 @@
+header {
+    background-color: #000000;
+    color: white;
+    margin: -10px;
+    padding: 10px;
+
+}
+body {
+    background-color: #FCE5D1;
+}
+
+h1 {
+    display: inline;
+    position: absolute;
+    font-size: x-large;
+    margin: 2px;
+}
+.menu2 {
+text-decoration: none;
+color: white;
+}
+.nav1 {
+    text-align: right;
+}
+.li1 {
+    display: inline;
+    font-size: x-large;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+h2 {
+    text-align: center;
+}
+img {
+    margin-top: 10px;
+    width: 1601px;
+    height: 600px;
+    margin-left: -10px;
+}
+.titre {
+    
+    bottom: 500px;
+    margin: 15px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+.sec2 {
+    margin: 500px;
+    margin-top: 200px;
+    height: 600px;
+    width: 600px;
+    font-size: 25px;
+}
+.patate {
+    background-image: url(.//seemi-samuel-4qJdtfJ2MmQ-unsplash.jpg);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+}
+.bouton {
+    background-color: white;
+    color: black;
+    border-radius:  20%;
+    width: 5%;
+    padding: 15px 25px;
+    font-size: larger;
+    margin-top: -900px;
+    margin-left: 700px;
+}
+.divpoint1 {
+    display: inline;
+    position: absolute;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    margin-left: 18%;
+    margin-top: 3%;
+}
+.divpoint2 {
+   display: inline;
+   position: absolute;
+   text-align: center;
+   width: 500px;
+   height: 500px;
+   margin-left: 50%;
+   margin-top: 3%;
+}
+.img2 {
+    width: 1570px;
+    height: 400px;
+    margin-top: 15%;
+}
+.coffee {
+    width: 30px;
+    height: 30px;
+}
+.clock {
+    width: 30px;
+    height: 30px;
+}
+#arti {
+    padding-bottom: 20px;
+}
+.titrecoucou {
+    text-align: center;
+    margin-top: 4%;
+}
+.ouicoucou {
+    text-align: center;
+    width: 500px;
+    margin-left: 33%;
+}
+.debouton {
+    background-color: black;
+    color: white;
+    border-radius:  20%;
+    width: 10%;
+    padding: 15px 25px;
+    margin-left: 700px;
+    font-size: larger;
+}
+.foot {
+    background-color: black;
+    margin: -8px;
+    padding: 7px;
+}
+.simp {
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.maps iframe{
+    width: 600px;
+    height: 500px;
+    margin-left: 10%;
+    margin-top: 8%;
+} 
+.adress{
+    font-weight: lighter;
+}
+.trou{
+    font-weight: bold;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding-right: 127px;
+}
+
+.trou2{
+    font-weight: bold;
+    ;
+}
+.text p{
+    line-height: 2.5;
+    bottom: 207px;
+    position: relative;
+    text-align: left;
+    padding-bottom: 150px;
+    margin-left: 50%;
+}
+.formulaire {
+    text-align: center;
+    padding: 5%;
+    ;
+}
+.quest {
+    font-size: xx-large;
+    margin-left: 40%;
+    margin-top: -5%;
+}
+.non {
+    margin-left: 40%; 
+}
+.bouuton {
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+}
+input {
+    margin-top: 2%;
+    font-size: xx-large;
+}
+.divi {
+    margin-top: 3%;
+    margin-right: 3%;
+}
+.divid {
+    margin-top: 2%;
+    margin-right: 2%;
+}
